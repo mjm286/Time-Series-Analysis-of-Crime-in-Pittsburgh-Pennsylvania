@@ -1,2 +1,2 @@
 # A Time Series Analysis of Crime in Pittsburgh Pennsylvania
-Investigation of the most frequently committed crimes from 2016 up until the end of 2019. Performed statistical analysis in rates of specific crimes committed for different time periods.  Created visualizations to easily convey information.  analysis.ipynb contains notebook for calculations.
+Here I investigate some of the most frequently committed crimes committed in Pittsburgh PA from 2016 up until the end of 2019. The jupyter notebook analysis.ipynb walks through data transformation and manipulation, creates meaningful visualzations to describe the data, and performs statistical analysis in comparing rates of specific crimes committed for different time periods.
